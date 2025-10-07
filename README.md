@@ -1,7 +1,3 @@
-<h1 align="center">Hey there 👋🏼,</h1>
-
-###
-
 <div align="center">
   <img height="150" src="https://media1.tenor.com/m/tsINeUuAskgAAAAd/coraline-dad-type.gif"  />
 </div>
@@ -22,8 +18,12 @@
 
 ###
 
+<h1 align="center">Hey there, you are visitor:</h1>
+
+###
+
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=meesgveld.meesgveld&"  />
+  <img src="https://count.getloli.com/@:meesgveld?theme=3d-num&padding=7&scale=1&align=top&pixelated=1&darkmode=auto"  />
 </div>
 
 ###
