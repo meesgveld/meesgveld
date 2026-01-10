@@ -32,7 +32,7 @@
 
 ###
 
-<p align="left">My name is Mees Groeneveld, I'm a 20 year old developer from The Netherlands!<br><br>- 🔭 I’m studying ICT @ HZ University of Applied Sciences<br>- 📚 I'm currently learning JS & C++ <br>- ⚡ In my free time I like to be outside</p>
+<p align="left">My name is Mees Groeneveld, I'm a 20 year old developer from The Netherlands!<br><br>- 🔭 I’m studying ICT @ HZ University of Applied Sciences<br>- 📚 I'm currently learning JS & C++ <br>- ⚡ In my free time I like to do sports & touch grass</p>
 
 ###
 
